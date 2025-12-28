@@ -23,10 +23,8 @@ This project demonstrates practical skills in financial data analysis, statistic
 
 ## Tools & Technologies
 - R
-- tidyverse
 - ggplot2
 - dplyr
-- lubridate
 
 ---
 
